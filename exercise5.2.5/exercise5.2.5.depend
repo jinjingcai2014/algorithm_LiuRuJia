@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458652466 source:f:\algorithm_liurujia\exercise5.2.5\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<set>
+
