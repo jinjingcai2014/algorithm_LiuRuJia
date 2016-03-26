@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458993224 source:f:\algorithm_liurujia\exercise6.3\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<stack>
+
