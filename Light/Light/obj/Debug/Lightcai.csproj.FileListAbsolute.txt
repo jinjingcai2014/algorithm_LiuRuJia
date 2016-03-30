@@ -1,0 +1,5 @@
+F:\algorithm_LiuRuJia\Light\Light\bin\Debug\Light.exe.config
+F:\algorithm_LiuRuJia\Light\Light\bin\Debug\Light.exe
+F:\algorithm_LiuRuJia\Light\Light\bin\Debug\Light.pdb
+F:\algorithm_LiuRuJia\Light\Light\obj\Debug\Light.exe
+F:\algorithm_LiuRuJia\Light\Light\obj\Debug\Light.pdb
